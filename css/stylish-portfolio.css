@@ -195,7 +195,7 @@ hr.small {
 .services {
     padding: 130px 0;
     /*background-color:#b40431;*/
-    background: url(../img/bgNew02.jpg) no-repeat center 24% scroll;
+    background: url(../img/bgLow01.jpg) no-repeat 20% 24% scroll;
 }
 .serviceH2{
     color:#fff;
@@ -217,7 +217,7 @@ hr.small {
     border-radius: 25px;
 }
 .serviceP {
-    color:#fff;
+    color:#4397d9;
     font-size:18px;
 }
 .services i {
